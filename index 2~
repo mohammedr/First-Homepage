@@ -1,0 +1,23 @@
+<html>
+  
+<body>
+
+<link rel="stylesheet" type="text/css"href="themes.css"/>
+
+  <h1>My Homepage</h1> 
+
+  
+  <hr>Hello my name is mohammed and this is my html welcome page</hr>
+  
+  <p>I enjoy going out with my freinds in my spare time, visiting the local youth club meeting new people and socializing. In my spare time I like working on cars and looking at specifications as well as modifications.</p>
+
+<p>Most of my intrests include in the links below</p>
+ 
+<p><a href="film.html">Fimls </a></p>
+
+<p><a href="music.html">Music </a></p>
+  
+  </body>
+</html> 
+
+
